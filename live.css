@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head h3{
+    background: rgb(100, 153, 197);
+    width: auto;
+    padding: 16px;
+    color: white;
+    font-size:22px;
+  }
+  .head h3 span{
+    color: red;
+    font-family: cursive;
+    font-size:29px;
+  }
+  .video{
+    width: 70%;
+    height: 70%;
+    background-color: rgb(131, 53, 53);
+    margin: 3% 0 0 5%;
+    padding: 50px;
+  }
